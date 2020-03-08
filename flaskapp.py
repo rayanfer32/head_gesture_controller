@@ -41,8 +41,8 @@ def home():
 mouse_step = 10
 speed = 0.5
 topspeed = 10
-mouse_ctrl = False
-keybd_ctrl = True
+mouse_ctrl = True
+keybd_ctrl = False
 
 @app.route('/static/pose', methods = ['POST'])
 def worker():
