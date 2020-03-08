@@ -8,6 +8,12 @@ https://teachablemachine.withgoogle.com
 ```
 `model files are placed in static folder`
 
+## Setup
+### python3
+`pip3 install -r requirements.txt`
+or 
+`pip install -r requirements.txt`
+
 ## Usage
 ### In Browser
 ```html
