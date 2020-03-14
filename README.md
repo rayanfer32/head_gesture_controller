@@ -15,11 +15,12 @@ or
 `pip install -r requirements.txt`
 
 ## Usage
-### In Browser
-```html
-localhost:5000
-```
+
 ### In command_prompt
 ```sh
 python flaskapp.py
+```
+### In Browser
+```html
+localhost:5000
 ```
